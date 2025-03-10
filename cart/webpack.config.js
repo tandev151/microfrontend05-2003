@@ -18,8 +18,7 @@ module.exports = {
       },
       shared: {
         '@faker-js/faker': {
-          singleton: true,
-          requiredVersion: '^8.4.1'
+          singleton: true
         }
       }
     })
